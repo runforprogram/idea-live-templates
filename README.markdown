@@ -26,6 +26,7 @@ Once you found it, `cd` into it, run `git clone https://github.com/keyboardsurfe
 - **`sbc`**: "block comment for structuring code"
 - **`Sfmt`**: "String format"
 - **`starter`**: "Creates a static start(...) helper method to start an Activity"
+- **`scase`**:"finish a switch"
 - **`Toast`**: "Create a new Toast"
 - **`ViewConstructors`**: "Adds generic view constructors"
 - **`visible`**: "Set view visibility to VISIBLE"
